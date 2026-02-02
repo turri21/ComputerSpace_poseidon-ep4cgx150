@@ -1,3 +1,7 @@
+-=(Poseidon notes)=-
+
+Port from MiSTer.
+
 ---------------------------------------------------------------------------------
 -- 
 -- Arcade: Computer Space - World first commercial arcade!
@@ -28,3 +32,4 @@ Quickreference for folders and file placement:
 /_Arcade/cores/<game rbf>.rbf
 /_Arcade/mame/<mame rom>.zip
 /_Arcade/hbmame/<hbmame rom>.zip
+
